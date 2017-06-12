@@ -3,4 +3,8 @@
 ``` ruby
 def greet
 puts "Hello World!"
+end
+```
+``` javascript
+alert('Hello github!');
 ``` 
