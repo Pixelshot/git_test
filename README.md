@@ -1,1 +1,6 @@
-This is a git test project from project Odin - Pixelshot
+# This is just a playground repo to understand git better
+
+``` ruby
+def greet
+puts "Hello World!"
+``` 
